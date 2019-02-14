@@ -94,6 +94,11 @@ Tall parenthesis and curly braces
 Angle brackets
 〈〉
 
+Triple dots:
+⫶
+⁝
+⋮
+
 Dotted Latin letters:
 abcdefghijklmnopqrstuvwxyz
 ȧḃċḋėḟġḣ    ṁṅȯṗ ṙṡṫ  ẇẋẏż
