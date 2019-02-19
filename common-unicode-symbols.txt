@@ -81,6 +81,7 @@ Tensors
 Quantum mechanics
 ħ h-bar
 ‸ hat
+Å angstrom
 
 Prime (e.g. for derivatives or variable pairs)
 ′
