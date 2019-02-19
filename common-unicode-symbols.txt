@@ -31,6 +31,8 @@ minus − (not -, hyphen)
 plus +
 plus or minus ±
 minus or plus ∓
+multiplication ×
+division ÷
 
 Fractions (horizontal bar)
 ――
