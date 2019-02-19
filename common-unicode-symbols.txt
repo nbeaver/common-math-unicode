@@ -88,6 +88,7 @@ Prime (e.g. for derivatives or variable pairs)
 
 Degrees (angles and temperatures)
 °
+Officially deprecated (do not use):
 ℃ (degrees Celsius)
 ℉ (degrees Fahrenheit)
 K (Kelvin, not K)
