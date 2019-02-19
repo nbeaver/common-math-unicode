@@ -37,6 +37,9 @@ division ÷
 Fractions (horizontal bar)
 ――
 
+⅒ ⅑ ⅛ ⅙ ⅕ ¼ ⅓ ⅜ ⅖ ½ ⅗ ⅝ ⅔ ¾ ⅘ ⅚ ⅞
+⅟
+
 Equalities
 ≃ ≈ ≡
 
