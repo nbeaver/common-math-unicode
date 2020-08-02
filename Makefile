@@ -4,5 +4,10 @@ HTML_OUT:=common-unicode-symbols.html
 $(HTML_OUT) : $(HTML_TEMPLATE) $(TXT)
 	m4 $< > $@
 
+.PHONY: check-html
 check-html : $(HTML_OUT)
 	tidy -errors -quiet $(HTML_OUT)
+
+.PHONY: clean
+clean :
+	rm -f -- $(HTML_OUT)
