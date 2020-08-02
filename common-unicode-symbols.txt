@@ -11,8 +11,8 @@ Greek alphabet, superscripts
 ᵝ ᵞ ᵟ ᵋ ᶿ ᶥ ᶹ ᵠ ᵡ
 
 Letter subscripts
-ₐ       ₑ     ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ   ᵣ ₛ ₜ ᵤ ᵥ   ₓ     ₔ
 a b c d e f g h i j k l m n o p q r s t u v w x y z ə
+ₐ       ₑ     ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ   ᵣ ₛ ₜ ᵤ ᵥ   ₓ     ₔ
 
 Number subscripts
 ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
