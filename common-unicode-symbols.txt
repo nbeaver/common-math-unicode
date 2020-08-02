@@ -3,29 +3,25 @@ Greek alphabet
 α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
   ϐ     ϵ     ϑ   ϰ           ϖ ϱ ς     ϕ      
 
-Greek alphabet, subscript
-ᵦ ᵧ ᵨ ᵩ ᵪ
+Greek alphabet, superscripts and subscripts
+  ᵝ ᵞ ᵟ ᵋ     ᶿ ᶥ                     ᶹ ᵠ ᵡ
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+  ᵦ ᵧ                           ᵨ       ᵩ ᵪ
 
-Greek alphabet, superscripts
-
-ᵝ ᵞ ᵟ ᵋ ᶿ ᶥ ᶹ ᵠ ᵡ
-
-Letter subscripts
+Roman alphabet, superscripts and subscripts
+                ⁱ         ⁿ
 a b c d e f g h i j k l m n o p q r s t u v w x y z ə
 ₐ       ₑ     ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ   ᵣ ₛ ₜ ᵤ ᵥ   ₓ     ₔ
 
-Number subscripts
+Number superscripts and subscripts
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+0 1 2 3 4 5 6 7 8 9
 ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
 
 Operator subscripts
 ₊ ₋ ₌ ₍ ₎
 
 Letter superscripts
-ⁱ ⁿ
-
-Number superscripts
-⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
-0 1 2 3 4 5 6 7 8 9
 
 Operator superscripts
 ⁺ ⁻ ⁼ ⁽ ⁾
