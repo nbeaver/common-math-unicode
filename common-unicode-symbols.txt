@@ -14,7 +14,7 @@ Latin alphabet, lowercase superscripts and subscripts
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 ₐ       ₑ     ₕ ᵢ ⱼ ₖ ₗ ₘ ₙ ₒ ₚ   ᵣ ₛ ₜ ᵤ ᵥ   ₓ
 
-Latin alphabet, uppercase superscripts and subscripts
+Latin alphabet, uppercase superscripts
 ᴬ ᴮ   ᴰ ᴱ   ᴳ ᴴ ᴵ ᴶ ᴷ ᴸ ᴹ ᴺ ᴼ ᴾ   ᴿ   ᵀ ᵁ ⱽ ᵂ
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
