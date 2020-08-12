@@ -37,11 +37,17 @@ minus or plus ∓
 multiplication ×  
 division ÷  
 
-Fractions (horizontal bar)
+Fraction bar (horizontal bar)
 ――  
 
-⅒ ⅑ ⅛ ⅙ ⅕ ¼ ⅓ ⅜ ⅖ ½ ⅗ ⅝ ⅔ ¾ ⅘ ⅚ ⅞  
-⅟  
+Common fractions
+  ⅟  
+  ½ ⅓ ¼ ⅕ ⅙ ⅐ ⅛ ⅑ ⅒  
+  ⅔ ⅖  
+  ¾ ⅗ ⅜  
+  ⅘  
+  ⅚ ⅝  
+  ⅞  
 
 Equalities
 ≃ ≈ ≡  
