@@ -1,1 +1,2 @@
 - [x] Post on Github
+- [x] Add dagger (†)

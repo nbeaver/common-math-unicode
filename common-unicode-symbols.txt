@@ -95,6 +95,9 @@ Quantum mechanics
 Prime (e.g. for derivatives or variable pairs)
   ′  
 
+Dagger (e.g. for Hermitian adjoint)
+†
+
 Degrees (angles and temperatures)
   °  
 Officially deprecated (do not use):
